@@ -1,3 +1,23 @@
 // Import your components CSS files here.
 @import "alert";
 @import "navbar";
+
+.wrapper {
+  background-color: grey;
+  padding: 50px auto;
+}
+
+.restaurant-card {
+  padding: 10px;
+  border: 1px solid black;
+}
+
+.details {
+  padding: 10px;
+  border: 1px solid black;
+}
+
+.form {
+   padding: 10px;
+  border: 1px solid black;
+}
